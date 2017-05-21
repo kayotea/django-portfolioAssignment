@@ -1,0 +1,23 @@
+/* stylesheet for porfolio - lindex.html and testimonials.html */
+
+#wrapper{
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+.column{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+}
+.center{
+    text-align: center;
+}
+.big{
+    font-size: 125%;
+}
+.bigger{
+    font-size: 150%;
+}
